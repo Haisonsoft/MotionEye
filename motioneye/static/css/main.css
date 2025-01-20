@@ -192,11 +192,11 @@ span.logo {
     font-size: 27px;
     font-weight: bold;
     position: relative;
-    top: 3px;
+    top: 0px;
 }
 
 img.logo {
-    width: 36px;
+    width: 50px;
     height: 36px;
     padding: 7px 3px;
     vertical-align: middle;
